@@ -14,3 +14,10 @@ Utilized Databricks platform and Apache Spark to perform data cleaning and trans
 
 3.Interactive Dashboards  
 Developed interactive dashboards showcasing key performance indicators (KPIs) for detailed analysis of players and teams, facilitating actionable insights.
+
+# Installation
+Prerequistes for this:  
+1. AWS Account
+2. Databricks Account
+3. Knowledge of Apache Spark
+4. Knowledge of Python and SQL
