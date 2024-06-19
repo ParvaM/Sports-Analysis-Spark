@@ -1,5 +1,7 @@
 # Sports-Analysis-Spark
 This project implements a robust data analytics pipeline for sports data, leveraging AWS and Databricks platforms to enable efficient data processing and visualization
+![sports-spark](https://github.com/ParvaM/Sports-Analysis-Spark/assets/61366663/e3153e2d-050d-460e-839f-f78fc662fab8)
+
 # Table of Contents
 1.Features  
 2.Technologies Used  
