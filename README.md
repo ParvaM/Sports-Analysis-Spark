@@ -29,5 +29,7 @@ Developed interactive dashboards showcasing key performance indicators (KPIs) fo
    ![sp-1](https://github.com/ParvaM/Sports-Analysis-Spark/assets/61366663/78d07aac-7b0b-4ecb-b77f-12b29481ce34)
 
 3. Implemented policies to ensure data security and compliance.  
-5. Leveraged Databricks for robust data cleaning and transformation operations.
-6. Extracted actionable insights from the refined dataset, facilitating informed decision-making and strategic planning.
+5. Leveraged Databricks for robust data cleaning and transformation operations.  
+  - Used Python, pySpark, Pandas, and SQL.
+  - Imported proper libraries, created new schema, excluded null values where needed, made new columns which can be used further. 
+7. Extracted actionable insights from the refined dataset, facilitating informed decision-making and strategic planning.
