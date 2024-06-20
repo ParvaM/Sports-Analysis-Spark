@@ -22,3 +22,12 @@ Developed interactive dashboards showcasing key performance indicators (KPIs) fo
 2. Databricks 
 3. Knowledge of Apache Spark
 4. Python and SQL
+
+# End to End Overview  
+1. The source of the csv files are:
+2. Deployed AWS infrastructure, establishing an S3 bucket and ingesting large-scale data through CSV file uploads.
+   ![sp-1](https://github.com/ParvaM/Sports-Analysis-Spark/assets/61366663/78d07aac-7b0b-4ecb-b77f-12b29481ce34)
+
+3. Implemented policies to ensure data security and compliance.  
+5. Leveraged Databricks for robust data cleaning and transformation operations.
+6. Extracted actionable insights from the refined dataset, facilitating informed decision-making and strategic planning.
